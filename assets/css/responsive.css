@@ -1,0 +1,146 @@
+@media only screen and (max-width: 1920px) and (min-width: 1445px) {
+	.container {
+		max-width: 1408px;
+	}
+}
+
+@media only screen and (max-width: 1600px) {
+}
+
+@media only screen and (max-width: 1445px) {
+	html {
+		font-size: 15px;
+	}
+}
+
+@media only screen and (max-width: 1366px) {	
+    .main_banner_content h1 {
+        font-size: 2.5rem;
+    }
+    .heading {
+        font-size: 2.25rem;
+    }
+    .what_we_tab_inner_content h4,
+    .cta_item li h4{
+        font-size: 1.75rem;
+    }
+    .why-we_item h4 {
+        font-size: 1.375rem;
+    }
+    .what_we_tab_content .tab-pane {
+        padding: 2em;
+    }
+    .let_data_wrapper {
+        padding: 2em;
+    }
+}
+
+@media (max-width: 1199.98px) {	
+	html {
+		font-size: 14px;
+	}
+}
+@media (max-width: 991.98px) {	
+    .navbar-toggler {
+        border: 1px solid var(--black);
+        outline: none !important;
+        box-shadow: none !important;
+        color: var(--black);
+    }
+    .navbar-collapse {
+        margin-top: 1rem;
+    }
+    .header-main__nav {
+        gap: .25rem;
+        margin: 0 0 .5rem;
+    }
+    .header-main__nav li a {
+        margin: 0 auto;
+        width: fit-content;
+    }
+    .header .themeBtn {
+        margin: 0 auto;
+    }
+    .main_banner_img {
+        display: none;
+    }
+    .what_we_title p,
+    .main_banner_content > p{
+        font-size: 1.125rem;
+    }
+    .we_check_items {
+        margin: 1rem 0;
+    }
+    .we_check_items p,
+    .main_banner_info p, .main_banner_price p,
+    .main_banner_info li,
+    .what_we_tab_nav .nav-link{
+        font-size: 1rem;
+    }
+    .padd-y {
+        padding: 4rem 0;
+    }
+    .what_we_tab_inner_content h4, .cta_item li h4 {
+        font-size: 1.5rem;
+    }
+    .why-we_item {
+        margin-bottom: 2.25rem;
+    }
+    .hear_people_card {
+        margin-bottom: 2.25rem;
+        height: auto;
+    }
+    .let_data_content {
+        margin-bottom: 2rem;
+    }
+    .let_data_wrapper .main_banner_form_wrap {
+        margin: 0 auto;
+    }
+    .country_flag {
+        margin-left: -.5rem;
+    }
+    .country_flag_item span,
+    .country_flag_item_inner p {
+        font-size: .875rem;
+    }
+    .cta_wrapper {
+        padding: 4em 2em;
+    }
+    .cta_item {
+        flex-flow: wrap row;
+        gap: 1rem;
+    }
+    .inner_banner {
+        padding: 4rem 0;
+    }
+}
+@media (max-width: 767.98px) {	
+	html {
+		font-size: 13px;
+	}
+	.padd-y {
+        padding: 3rem 0;
+    }
+    .heading {
+        font-size: 2.125rem;
+    }
+    .what_we_tab_img {
+        margin-bottom: 1rem;
+    }
+    .turning_data_item {
+        margin-bottom: 2.25rem;
+    }
+    .inner_banner {
+        padding: 3rem 0;
+    }
+}
+@media (max-width: 575.98px) {
+	html {
+		font-size: 12px;
+	}
+}
+@media (max-width: 320.98px) {
+    .heading {
+        font-size: 2rem;
+    }
+}
